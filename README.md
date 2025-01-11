@@ -16,7 +16,7 @@ JavaScript
 
 Estructura del proyecto:
 project-folder/
-├── src/
+├── src/	
 │   ├── css/
 │   │   └── style.css
 │   ├── javascript/
@@ -24,9 +24,7 @@ project-folder/
 ├── index.html
 
 Instrucciones para levantar la aplicación
-
 Clonar el repositorio:
-
 git clone <url-del-repositorio>
 cd project-folder
 
